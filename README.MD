@@ -74,7 +74,7 @@ effectif(1) = effAdelie
 
 bar(effectif);
 
-![Graphe de bar des effectifs des différentes especes](/home/theo/sae_s204/grapheEx2.png)
+![Graphe de bar des effectifs des différentes especes](/home/theo/sae_s204/images/grapheEx2.png)
 
  
 
@@ -105,7 +105,7 @@ On compte dans une variable les différent nombre d'effectif
 
 bar(effectifs_sexe);
 
-![Graphe de bar des effectifs des différents sexes](/home/theo/sae_s204/grapheEx3.scg)
+![Graphe de bar des effectifs des différents sexes](/home/theo/sae_s204/images/grapheEx3.png)
 
 4)Calculer la masse moyenne des manchots.
 
@@ -224,15 +224,17 @@ ecart_iqr = Q3 - Q1;
 
 10) Construire une boîte à moustaches de la masse corporelle.
 
-![Boite a moustache globale de la masse](/home/theo/sae_s204/grapheEx10.scg)
+![Boite a moustache globale de la masse](/home/theo/sae_s204/images/grapheEx10.png)
 
 11) Comparer les boîtes à moustaches des masses selon l'espèce.
 
-![Comparaison de la répartition de la masse selon l'espèce](/home/theo/sae_s204/grapheEx11.scg)
+![Comparaison de la répartition de la masse selon l'espèce](/home/theo/sae_s204/images/grapheEx11.png)
 
 Question 12
 
-![Histogramme de la masse corporelle](/home/theo/sae_s204/grapheEx12.scg)
+On utilise hisplot
+
+![Histogramme de la masse corporelle](/home/theo/sae_s204/images/grapheEx12.png)
 
 Question 13
 
@@ -294,14 +296,14 @@ Avec disp, on peut obtenir un meilleur affichage :
 
 Question 14
 
-![Histogramme de la longueur des nageoires](/home/theo/sae_s204/grapheEx14.scg)
+![Histogramme de la longueur des nageoires](/home/theo/sae_s204/images/grapheEx14.png)
 
 
 Question 15
 
 On place en abcisse la longueur des nageoire et en ordonnée la masse.
 
-![Relation entre Nageoires et Masse](/home/theo/sae_s204/grapheEx15.scg)
+![Relation entre Nageoires et Masse](/home/theo/sae_s204/images/grapheEx15.png)
 
 On remarque que il y a une corrélation positive forte et linéaire. On peut en déduire que le coéfficient
 de corrélation est très proche de 1
