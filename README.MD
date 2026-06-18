@@ -74,7 +74,7 @@ effectif(1) = effAdelie
 
 bar(effectif);
 
-![Graphe de bar des effectifs des différentes especes](/home/theo/sae_s204/images/grapheEx2.png)
+![Graphe de bar des effectifs des différentes especes](images/grapheEx2.png)
 
  
 
